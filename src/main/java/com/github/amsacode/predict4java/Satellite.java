@@ -120,4 +120,5 @@ public interface Satellite {
 	 *            the date
 	 */
 	SatPos getPosition(GroundStationPosition qth, Date time);
+
 }
